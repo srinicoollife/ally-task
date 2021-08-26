@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ally-task/static/css/main.8d6dc833.chunk.css",
+    "main.js": "/ally-task/static/js/main.4dde056f.chunk.js",
+    "main.js.map": "/ally-task/static/js/main.4dde056f.chunk.js.map",
+    "runtime-main.js": "/ally-task/static/js/runtime-main.cf069aa9.js",
+    "runtime-main.js.map": "/ally-task/static/js/runtime-main.cf069aa9.js.map",
+    "static/js/2.d31e0e44.chunk.js": "/ally-task/static/js/2.d31e0e44.chunk.js",
+    "static/js/2.d31e0e44.chunk.js.map": "/ally-task/static/js/2.d31e0e44.chunk.js.map",
+    "static/js/3.e2320a48.chunk.js": "/ally-task/static/js/3.e2320a48.chunk.js",
+    "static/js/3.e2320a48.chunk.js.map": "/ally-task/static/js/3.e2320a48.chunk.js.map",
+    "index.html": "/ally-task/index.html",
+    "static/css/main.8d6dc833.chunk.css.map": "/ally-task/static/css/main.8d6dc833.chunk.css.map",
+    "static/js/2.d31e0e44.chunk.js.LICENSE.txt": "/ally-task/static/js/2.d31e0e44.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf069aa9.js",
+    "static/js/2.d31e0e44.chunk.js",
+    "static/css/main.8d6dc833.chunk.css",
+    "static/js/main.4dde056f.chunk.js"
+  ]
+}
