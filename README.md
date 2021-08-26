@@ -2,6 +2,16 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## assumptions
+
+1. task done using react and redux
+2. all the accordions are open by defualt during initial load
+3. all the filters are selected by default during initial load
+4. user can select/deselect a filter by click on the filter badges
+5. settimeout of 500ms is given only to demonstrate that loader implemented is working
+6. bootstrap or any other ui css framework not used as per requirements
+7. no external packages used except for redux
+
 ## Available Scripts
 
 In the project directory, you can run:
